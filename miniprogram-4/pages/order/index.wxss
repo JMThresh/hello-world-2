@@ -1,0 +1,29 @@
+.order_main .order_item navigator {
+  padding: 15rpx;
+  padding-bottom: 10rpx;
+  border-top: 1rpx solid #ccc;
+}
+.order_main .order_item navigator .order_detail {
+  padding: 10rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.order_main .order_item navigator .order_no_row {
+  padding: 10rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.order_main .order_item navigator .order_price_row {
+  padding: 10rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.order_main .order_item navigator .order_price_row .order_price_row_value {
+  font-size: 34rpx;
+  color: var(--themeColor);
+}
+.order_main .order_item navigator .order_time_row {
+  padding: 10rpx;
+  display: flex;
+  justify-content: space-between;
+}
